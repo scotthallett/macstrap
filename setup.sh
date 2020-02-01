@@ -23,9 +23,14 @@ echo "Cleaning up brew..."
 brew cleanup
 
 echo "Installing apps via brew cask..."
-brew cask install --appdir="/Applications" sequel-pro
 brew cask install --appdir="/Applications" atom
-brew cask install --appdir="/Applications" slack
-brew cask install --appdir="/Applications" iterm2
+brew cask install --appdir="/Applications" boostnote
+brew cask install --appdir="/Applications" docker
 brew cask install --appdir="/Applications" evernote
+brew cask install --appdir="/Applications" google-chrome
+brew cask install --appdir="/Applications" iterm2
+brew cask install --appdir="/Applications" mamp
+brew cask install --appdir="/Applications" sequel-pro
+brew cask install --appdir="/Applications" slack
+brew cask install --appdir="/Applications" tunnelblick
 brew cask install --appdir="/Applications" visual-studio-code
