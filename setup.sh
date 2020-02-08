@@ -18,6 +18,7 @@ brew install jq
 brew install mysql-client
 brew install sqlite
 brew install telnet
+brew install node
 
 echo "Cleaning up brew..."
 brew cleanup
