@@ -35,3 +35,4 @@ brew cask install --appdir="/Applications" sequel-pro
 brew cask install --appdir="/Applications" slack
 brew cask install --appdir="/Applications" tunnelblick
 brew cask install --appdir="/Applications" visual-studio-code
+brew cask install --appdir="/Applications" postman
