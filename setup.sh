@@ -36,3 +36,4 @@ brew cask install --appdir="/Applications" slack
 brew cask install --appdir="/Applications" tunnelblick
 brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" postman
+brew cask install --appdir="/Applications" gimp
